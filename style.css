@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&display=swap');
+body{
+    font-family: 'Boogaloo', cursive;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: pink;
+}
+h1{
+    font-size: 50px;
+    color: blue;
+    text-decoration: underline red;
+}
+h3{
+    font-size: 20px;
+    color: purple;
+}
+h2{
+    font-size: 30px;
+    color: purple;
+}
+p{
+    font-size: 25px;
+    color: purple;
+}
+img{
+    border: 5px solid blue;
+    height: 370px;
+}
